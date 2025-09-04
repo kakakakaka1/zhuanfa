@@ -6,13 +6,13 @@
    
 ---
 
-## flux-panel转发面板
+## zhuanfa转发面板
 
 本项目基于 [go-gost/gost](https://github.com/go-gost/gost) 和 [go-gost/x](https://github.com/go-gost/x) 两个开源库，实现了转发面板。
 
 ---
 ## 文档地址
-- [文档地址](https://brunuhville.github.io/flux-panel)
+- [文档地址](https://kakakakaka1.github.io/zhuanfa)
 ---
 ## 特性
 
@@ -84,13 +84,13 @@
 
 面板端：
 ```bash
-curl -L https://raw.githubusercontent.com/BrunuhVille/flux-panel/refs/heads/main/panel_install.sh -o panel_install.sh && chmod +x panel_install.sh && ./panel_install.sh
+curl -L https://raw.githubusercontent.com/kakakakaka1/zhuanfa/refs/heads/main/panel_install.sh -o panel_install.sh && chmod +x panel_install.sh && ./panel_install.sh
 
 ```
 
 节点端：
 ```bash
-curl -L https://raw.githubusercontent.com/BrunuhVille/flux-panel/refs/heads/main/install.sh -o install.sh && chmod +x install.sh && ./install.sh
+curl -L https://raw.githubusercontent.com/kakakakaka1/zhuanfa/refs/heads/main/install.sh -o install.sh && chmod +x install.sh && ./install.sh
 
 ```
 
